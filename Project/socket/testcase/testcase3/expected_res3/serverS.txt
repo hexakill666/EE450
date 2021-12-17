@@ -1,0 +1,3 @@
+The ServerS is up and running using UDP on port 22124.
+The ServerS received a request from Central to get the scores.
+The ServerS finished sending the scores to Central.

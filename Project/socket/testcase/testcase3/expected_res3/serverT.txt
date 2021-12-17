@@ -1,0 +1,3 @@
+The ServerT is up and running using UDP on port 21124.
+The ServerT received a request from Central to get the topology.
+The ServerT finished sending the topology to Central.

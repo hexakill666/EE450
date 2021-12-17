@@ -1,0 +1,5 @@
+The client is up and running.
+The client sent Q3rhD to the Central server.
+Found compatibility for Q3rhD and 4zSQY:
+Q3rhD --- DFXqf --- 4zSQY
+Matching Gap : 1.00

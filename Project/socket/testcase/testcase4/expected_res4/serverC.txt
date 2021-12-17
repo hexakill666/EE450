@@ -1,0 +1,11 @@
+The Central server is up and running.
+The Central server received input=00000000000 from the client using TCP over port 25124.
+The Central server received input=000000000018 from the client using TCP over port 26124.
+The Central server sent a request to Backend-Server T.
+The Central server received information from Backend-Server T using UDP over port 24124.
+The Central server sent a request to Backend-Server S.
+The Central server received information from Backend-Server S using UDP over port 24124.
+The Central server sent a processing request to Backend-Server P.
+The Central server received the results from backend server P.
+The Central server sent the results to client A.
+The Central server sent the results to client B.

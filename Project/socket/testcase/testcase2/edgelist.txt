@@ -1,0 +1,14 @@
+DFXqf	Q3rhD
+DFXqf	4zSQY
+Re65F	DFXqf
+Q3rhD	Zezpb
+Zezpb	IKajW
+IKajW	Re65F
+IKajW	xWTG7
+IKajW	geLA2
+geLA2	Zezpb
+Zezpb	JSKhi
+JSKhi	Re65F
+JSKhi	xWTG7
+TkR9O	geLA2
+TkR9O	DFXqf
