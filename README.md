@@ -9,4 +9,4 @@ Directory structure:
 - /SampleProblem2 ---- sample problems after midterm  
 
 Note:  
-&ensp;&ensp;Lecture and exam are two different worlds. Please do practice old exam before taking the actual exam. Sample problems are less valueable than old exam. If you have limited time, please only practice old exam. If you have extra time, then you can try sample problmes.
+&ensp;&ensp;&ensp;&ensp;Lecture and exam are two different worlds. Please do practice old exam before taking the actual exam. Sample problems are less valueable than old exam. If you have limited time, please only practice old exam. If you have extra time, then you can try sample problmes.
