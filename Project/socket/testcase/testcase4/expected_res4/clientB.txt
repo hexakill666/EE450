@@ -1,0 +1,5 @@
+The client is up and running.
+The client sent 000000000018 to the Central server.
+Found compatibility for 000000000018 and 00000000000:
+000000000018 --- 000000000016 --- 000000000012 --- 00000000000
+Matching Gap : 0.40

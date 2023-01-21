@@ -1,0 +1,5 @@
+The client is up and running.
+The client sent Victor to the Central server.
+Found compatibility for Victor and Oliver:
+Victor --- Rachael --- Oliver
+Matching Gap : 1.06

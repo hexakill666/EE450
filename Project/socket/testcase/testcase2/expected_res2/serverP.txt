@@ -1,0 +1,3 @@
+The ServerP is up and running using UDP on port 23124.
+The ServerP received the topology and score information.
+The ServerP finished sending the results to the Central.
